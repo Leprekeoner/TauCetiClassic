@@ -115,6 +115,7 @@
 	H.equip_or_collect(new /obj/item/ammo_box/speedloader/c45rubber(H), SLOT_L_STORE)
 	H.equip_or_collect(new /obj/item/ammo_box/speedloader/c45rubber(H), SLOT_R_STORE)
 
+
 /datum/quality/positiveish/all_affairs
 	name = "All Affairs"
 	desc = "У тебя полный доступ. Да начнётся расследование."
